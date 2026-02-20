@@ -3,7 +3,7 @@ title: Réfection de joints silicone
 layout: default
 modal-id: 7
 date: 2014-07-15
-img: refaction_joints_2.png
+img: refaction_joints_2.jpeg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap

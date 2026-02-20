@@ -3,7 +3,7 @@ title: Petites démolitions
 layout: default
 modal-id: 4
 date: 2014-07-15
-img: petite_demolition_1.png
+img: petite_demolition_1.jpeg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap

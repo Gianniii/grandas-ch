@@ -3,7 +3,7 @@ title: Fourniture et pose de carrelage
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: fourniture_pose_carrelage_2.png
+img: fourniture_pose_carrelage_2.jpeg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
